@@ -1,0 +1,97 @@
+/*--------------------------------------------------------------
+#DesertSafariDubai Custom CSS file begins
+--------------------------------------------------------------*/
+
+.smallFont {
+	font-size:11px;
+	font-weight:normal
+}
+#header #logo h1 a {
+	line-height:0.5;
+	text-decoration:none;
+}
+#header #logo h1 {
+	font-size:28px;
+	color:#75330a !important
+}
+.nav-menu a {
+	font-size:14px;
+}
+#about .content h3, #about .content h2 {
+	text-align:left;
+}
+.inner-content h3 { font-size:14px; color:#ca6624; }
+#services .box {
+	height:100%;
+}
+#servicesN .box {
+	height:93%;
+}
+#services .box .icon {
+	float:none;
+}
+#services .box h4, #services .box p {
+	margin-left:0;
+}
+address {
+	line-height:1.1
+}
+address span {
+	font-size:12px;
+	line-height:.5
+}
+#services .box {
+	padding:15px;
+}
+.btn-nrml {
+	font-family: "Raleway", sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	letter-spacing: 1px;
+	display: inline-block;
+	padding: 5px 32px;
+	border-radius: 2px;
+	transition: 0.5s;
+	margin-left: 15%;
+	color: #fff;
+	background:#ca6624;
+	border:2px solid #ca6624;
+}
+.btn-nrml:hover {
+	background:none;
+	color:#ca6624;
+	border:2px solid #ca6624;
+}
+.box .btn-nrml {
+	position:absolute;
+	bottom:20px;
+	margin-left: 15%;
+}
+
+.listnone { list-style-type:none; margin:0; padding:0; font-size:14px; }
+.listnone li { margin:5px; }
+#intro.innerBanner { height:25vh; }
+.innerBanner .owl-carousel .owl-item { max-height:250px; }
+
+.breadcrumb {    background-color: #fcf7f3;}
+.breadcrumb-item { font-size:13px; color:#444; }
+
+.listnone { list-style-type:none; padding:10px;}
+.bg-list { background:#fcf7f3; }
+
+.fs-14 { font-size:14px; }
+.breadcrumb div a {
+    color: #ba5727;
+}
+
+.faqFont {font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  margin: 0 0 20px 0;
+  padding: 0;
+}
+ 
+.faqFont li{font-family: "Montserrat", sans-serif;
+  font-size: 13px;
+  margin: 0 0 0 20px;
+  padding: 0;
+}
